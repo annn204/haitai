@@ -3,7 +3,9 @@ import './HTFooter.css';
 
 function HTFooter(){
     return(
-        <div></div>
+        <div>
+            <img src='images/footer.png' alt=''/>
+        </div>
     )
 }
 
