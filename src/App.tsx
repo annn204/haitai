@@ -5,7 +5,7 @@ import HTMain from './HTMain/HTMain'
 import HTCompany from './HTCompany/HTCompany'
 import HTHoneyStory from'./HTHoneyStory/HTHoneyStory'
 import HTSweetNews from'./HTSweetNews/HTSweetNews'
-import HTLink from './HTLink/HTLinks'
+import HTLink from './HTLink/HTLink'
 import HTFooter from './HTFooter/HTFooter'
 
 function App() {
