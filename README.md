@@ -7,7 +7,7 @@
 ## 제출 결과
 >안태준 - HTLinks  HTSweetNews
 >
->이태영 - HTHoneyStory
+>이태영 - HTHoneyStory HTFooter
 
 ### 제작후기
 
