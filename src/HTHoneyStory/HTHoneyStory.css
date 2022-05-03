@@ -78,7 +78,7 @@
   
   .honeypot {
     position: absolute;
-    top: 627px;
+    top: 379px;
     left: 400px;
   }
   
@@ -115,7 +115,7 @@
   
   .honeypot2 .bee3 {
     position: absolute;
-    top: 40px;
+    top: -235px;
     left: 200px;
     width: 130px;
     height: 148px;
@@ -129,6 +129,6 @@
   
   .honeypot2 .pot {
     position: absolute;
-    top: 0px;
+    top: -277px;
     left: 0px;
   }
